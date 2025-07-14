@@ -1,4 +1,4 @@
-!logo(https://github.com/Adityasharma1234567890/Adityasharma1234567890/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/Adityasharma1234567890/Adityasharma1234567890/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate BTech Student from India</h3>
